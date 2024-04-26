@@ -1,0 +1,72 @@
+[
+  {
+    "cantidad": 100.0,
+    "monedaOrigen": "MXN",
+    "monedaDestino": "ARS",
+    "resultado": 5062.21,
+    "fechaHora": "2024-04-25 11:25:53"
+  },
+  {
+    "cantidad": 200.0,
+    "monedaOrigen": "EUR",
+    "monedaDestino": "BOB",
+    "resultado": 1480.1,
+    "fechaHora": "2024-04-25 11:26:11"
+  },
+  {
+    "cantidad": 400.0,
+    "monedaOrigen": "GTQ",
+    "monedaDestino": "COP",
+    "resultado": 200936.32,
+    "fechaHora": "2024-04-25 11:26:26"
+  },
+  {
+    "cantidad": 100.0,
+    "monedaOrigen": "USD",
+    "monedaDestino": "CAD",
+    "resultado": 136.98,
+    "fechaHora": "2024-04-25 12:06:05"
+  },
+  {
+    "cantidad": 200.0,
+    "monedaOrigen": "EUR",
+    "monedaDestino": "BOB",
+    "resultado": 1480.1,
+    "fechaHora": "2024-04-25 12:06:26"
+  },
+  {
+    "cantidad": 100.0,
+    "monedaOrigen": "GTQ",
+    "monedaDestino": "PEN",
+    "resultado": 47.74,
+    "fechaHora": "2024-04-25 12:14:16"
+  },
+  {
+    "cantidad": 100.0,
+    "monedaOrigen": "BRL",
+    "monedaDestino": "GTQ",
+    "resultado": 151.35,
+    "fechaHora": "2024-04-25 12:15:47"
+  },
+  {
+    "cantidad": 6000.0,
+    "monedaOrigen": "USD",
+    "monedaDestino": "CAD",
+    "resultado": 8218.8,
+    "fechaHora": "2024-04-25 12:19:59"
+  },
+  {
+    "cantidad": 100.0,
+    "monedaOrigen": "USD",
+    "monedaDestino": "GTQ",
+    "resultado": 777.09,
+    "fechaHora": "2024-04-25 12:21:16"
+  },
+  {
+    "cantidad": 100.0,
+    "monedaOrigen": "USD",
+    "monedaDestino": "BRL",
+    "resultado": 514.91,
+    "fechaHora": "2024-04-25 19:24:32"
+  }
+]
